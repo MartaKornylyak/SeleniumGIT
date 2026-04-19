@@ -6,6 +6,8 @@ public class HotelSelenium {
 		System.out.println("Hotel Selenium");
 		System.out.println("Added locally");
 		System.out.println("Added from GIT");
+		System.out.println("Added from GIT 2");
+	}
 	}
 
 }
