@@ -7,10 +7,7 @@ public class HotelSelenium {
 		System.out.println("Added locally");
 		System.out.println("Added from GIT");
 		System.out.println("Added from GIT"); 
-		System.out.println("Added locally2");
-		
-
-	}
+		}
 
 	}
 
